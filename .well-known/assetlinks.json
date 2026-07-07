@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.mohaalkh_source.twa",
-    "sha256_cert_fingerprints": ["9B:E6:2E:BC:C0:0B:3D:62:FF:E2:25:47:27:2A:0D:17:3D:DF:F1:5D:ED:CA:45:BA:DF:13:CD:CC:33:AC:D0:F5"]
+    "sha256_cert_fingerprints": ["9E:89:31:6A:C4:CB:6D:F0:FE:39:C9:7D:D9:D5:11:FF:EE:88:F0:91:4F:93:13:8F:5A:7C:DA:A2:1A:53:09:74"]
   }
 }]
